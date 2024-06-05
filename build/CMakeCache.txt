@@ -145,7 +145,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=learnedIndex
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/Library/Developer/CommandLineTools/usr/bin/ranlib
@@ -220,6 +220,15 @@ Project_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/Users/clairechen/bucket-learned-index
+
+//Value Computed by CMake
+learnedIndex_BINARY_DIR:STATIC=/Users/clairechen/bucket-learned-index/build
+
+//Value Computed by CMake
+learnedIndex_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+learnedIndex_SOURCE_DIR:STATIC=/Users/clairechen/bucket-learned-index
 
 
 ########################
