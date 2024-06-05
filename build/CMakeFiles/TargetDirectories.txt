@@ -1,0 +1,2 @@
+/Users/clairechen/bucket-learned-index/build/CMakeFiles/edit_cache.dir
+/Users/clairechen/bucket-learned-index/build/CMakeFiles/rebuild_cache.dir
